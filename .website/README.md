@@ -1,4 +1,8 @@
 ---
+genres:
+  - action
+  - arcade
+  - fighting
 video: https://youtu.be/lriuDEZUnng
 post: https://unicornsugarworld.com/
 # See github.com/js13kGames/hello-world for supported frontmatter
